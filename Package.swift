@@ -17,6 +17,6 @@ let package = Package(
         .target(
             name: "SwipeTransition",
             dependencies: [],
-            path: "Sources")
+            path: "Sources/SwipeTransition")
     ]
 )
